@@ -10,6 +10,8 @@ public class Jurnal1 {
 
     int input; 
     
+    11111111111111
+    
     public static void main(String[] args) {
         System.out.println("Input : " +input);
         if (input ){
